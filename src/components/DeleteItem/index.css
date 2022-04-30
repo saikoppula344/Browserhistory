@@ -1,0 +1,32 @@
+.items-list {
+  list-style-type: none;
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: #6697ff;
+  border: 0px solid;
+  outline: 0px;
+  cursor: pointer;
+}
+.list {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  align-items: center;
+  margin: 1px;
+}
+.logo {
+  margin: 10px;
+}
+.domain {
+  margin: 10px;
+  margin-left: 10px;
+  color: white;
+}
+.title {
+  color: azure;
+  font-weight: 400;
+}
